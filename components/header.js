@@ -1,4 +1,4 @@
-   // header.js
+    // header.js
 function createHeader() {
     // Create header elements
     const headerContainer = document.getElementById('headerContainer');
